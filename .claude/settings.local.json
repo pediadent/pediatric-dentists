@@ -20,7 +20,11 @@
       "Bash(git add:*)",
       "Bash(dir /b nul 2)",
       "Bash(nul)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
